@@ -26,12 +26,12 @@
 
 | Member | Task | Deliverables |
 |--------|------|-------------|
-| 1 | **Frontend Developer** | Build interactive dashboard with satellite orbits, heatmaps, maneuver alerts |
-| 2 | **Backend Developer** | API endpoints for TLE upload, collision simulation, and risk calculations |
-| 3 | **Orbit Simulation Specialist** | Parse TLEs, propagate orbits, detect conflicts, simulate maneuvers using Skyfield/Poliastro |
-| 4 | **Database & Integration** | Setup PostgreSQL, store TLEs/maneuvers, connect backend with frontend |
-| 5 | **UI/UX & Visualization Designer** | Dashboard layout, heatmaps, color-coded alerts, user-friendly design |
-| 6 | **Demo Coordinator / QA / Scriptwriter** | Test end-to-end flow, prepare sample scenarios, handle deployment, create judge-ready script |
+| 1 | **Frontend Developer** | Build interactive dashboard with satellite orbits, heatmaps, maneuver alerts | --Ankit kumar das
+| 2 | **Backend Developer** | API endpoints for TLE upload, collision simulation, and risk calculations | --Nilesh
+| 3 | **Orbit Simulation Specialist** | Parse TLEs, propagate orbits, detect conflicts, simulate maneuvers using Skyfield/Poliastro |--Rhythm
+| 4 | **Database & Integration** | Setup PostgreSQL, store TLEs/maneuvers, connect backend with frontend | --Ashutosh
+| 5 | **UI/UX & Visualization Designer** | Dashboard layout, heatmaps, color-coded alerts, user-friendly design | -- Shruti 
+| 6 | **Demo Coordinator / QA / Scriptwriter** | Test end-to-end flow, prepare sample scenarios, handle deployment, create judge-ready script | --Abhisheik
 
 > 🔹 Clear division ensures prototype completion within **36 hours**.  
 > 🔹 Optional AI or advanced features can be deferred to **future expansion**.
